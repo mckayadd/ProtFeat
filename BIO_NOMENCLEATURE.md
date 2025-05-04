@@ -146,6 +146,7 @@ ProtFeat relies on standard biological identifiers used in well-known databases.
 
 ### Typical workflow:
 
+```
 Protein FASTA file
 ↓
 (Optional) PSI-BLAST → PSSM
@@ -155,7 +156,7 @@ ProtFeat feature extraction
 Tabular feature matrix (.tsv)
 ↓
 Machine learning model
-
+```
 ### Why it matters for ProtFeat:
 ProtFeat provides the core feature extraction step in this pipeline—converting biological sequences into structured data.
 
