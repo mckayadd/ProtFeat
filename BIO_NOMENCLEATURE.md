@@ -38,8 +38,8 @@ FASTA is a plain-text format commonly used for storing protein and nucleotide se
 
 **Example:**
 
-``` sp|Q9H9K5|SYT1_HUMAN Synaptotagmin-1 OS=Homo sapiens
-MSEQNNTEMTFQIQRIYTKDISFEAPNAPHVFQ... ```
+``` >sp|Q9H9K5|SYT1_HUMAN Synaptotagmin-1 OS=Homo sapiens... ```
+```MSEQNNTEMTFQIQRIY... ```
 
 
 - The line starting with `>` is the **header**, containing metadata such as UniProt ID and description.
@@ -173,6 +173,4 @@ ProtFeat provides the core feature extraction step in this pipeline—converting
 - [Pfam](http://pfam.xfam.org)
 
 ---
-
-*Save this file as `BIO_NOMENCLATURE.md` in your repository to help readers understand the bioinformatics background of ProtFeat.*
 
