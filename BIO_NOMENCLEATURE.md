@@ -1,4 +1,3 @@
-# BIO_NOMENCLATURE.md
 
 A detailed guide to the core bioinformatics and computational biology concepts behind the ProtFeat project. This file is intended to help new users—especially those coming from outside biology—understand the terminology and logic behind the protein feature extraction techniques used in ProtFeat.
 
